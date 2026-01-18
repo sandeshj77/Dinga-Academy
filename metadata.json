@@ -1,0 +1,7 @@
+{
+  "name": "Dinda Academy Scorer",
+  "description": "A 100% offline, flexible cricket scoring application for local, academy, and street matches with a fun sarcastic twist.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
